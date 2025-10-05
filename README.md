@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Halil0101
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on MySQL Connector/C++ 1.1
+- 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, Nodejs, Express, HTML-CSS
+- 💞️ I work on projects in the technologies mentioned above
 - 📫 How to reach me halilademovic@gmail.com
 
 <!---
