@@ -2,7 +2,21 @@
 - 👀 Software Developer
 - 🌱 JavaScript, Node.js, Express, Ruby, Ruby on Rails, HTML-CSS
 - 💞️ self-employed
-- my projects that are online: ttoglasi.rs , etermini.com
+-
+-
+- ## 🌐 Live Deployments
+
+### 🛒 Ttoglasi.rs
+**Description:** Classified ads marketplace built with Next.js
+**Live Demo:** [https://ttoglasi.rs](https://ttoglasi.rs)
+**Tech Stack:** Node.js, JavaScript, Express, CSS, PostgreSQL
+
+### 📅 Etermini.com  
+**Description:** Appointment scheduling platform for businesses
+**Live Demo:** [https://etermini.com](https://etermini.com)
+**Tech Stack:** Node.js, JavaScript, Express, Tailwind CSS, PostgreSQL
+
+
 - 📫 How to reach me: halilademovic@gmail.com
 
 <!---
