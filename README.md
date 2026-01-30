@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Halil0101
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Ruby, Ruby on Rails, JavaScript, Nodejs, Express, HTML-CSS
-- 💞️ I work on projects in the technologies mentioned above
-- 📫 How to reach me halilademovic@gmail.com
+- 👀 Software Developer
+- 🌱 JavaScript, Node.js, Express, Ruby, Ruby on Rails, HTML-CSS
+- 💞️ self-employed
+- my projects that are online: ttoglasi.rs , etermini.com
+- 📫 How to reach me: halilademovic@gmail.com
 
 <!---
 Halil0101/Halil0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
