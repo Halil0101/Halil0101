@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Halil0101
+- 👋 Hi, I’m @Halil
 - 👀 Software Developer
 - 🌱 JavaScript, Node.js, Express, Ruby, Ruby on Rails, HTML-CSS
 - 💞️ self-employed
--
--
-- ## 🌐 Live Deployments
+
+## 🌐 Live Deployments
 
 ### 🛒 Ttoglasi.rs
 **Description:** Classified ads marketplace built with Next.js
